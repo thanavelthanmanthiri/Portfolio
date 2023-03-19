@@ -456,7 +456,28 @@ color:rgb(192, 20, 20);
 /* projects section
 ==================================================*/
 
-#projects {
+
+.pro1{
+    width: 400px;
+    height: 400px;
+    margin-top: -6cm;
+    margin-left: 20cm;
+}
+.pro2{
+    width: 350px;
+    height: 350px;
+    margin-top: -6cm;
+    margin-left: 20cm;
+}
+#pulse:hover{
+    padding: 2px;
+    box-shadow: #c60606;
+}
+#smart:hover{
+    padding: 2px;
+    box-shadow: #c60606;
+}
+/*#projects {
     padding: 100px 0;
 }
 
@@ -634,7 +655,7 @@ color:rgb(192, 20, 20);
     font-size: 40px;
     line-height: 50px;
 }
-
+*/
 
 /* contact
 ==================================================*/
